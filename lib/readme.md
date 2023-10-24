@@ -1,0 +1,4 @@
+perbedaan penggunaan statefull widget dengan app state management dapat terlihat pada statefull wiget yang hanya mengolah data yang ada pada widget tersebut sedangkan pada app state management memungkinkan data yang ada di dalamnya di olah secara global dan juga pada app state management kita dapat mengoptimalkan kinerja dengan hanya memperbarui komponen yang di perlukan.
+
+
+Keuntungan Penggunaan App State Management pada aplikasi flutter adalah dengan menggunakan state management kita dapat dengan lebih mudah mengakses data yang diperlukan dari aplikasi, memberikan struktur yang jelas untuk mengelolah state aplikasi, efisiensi kerja dimana hanya widget yang diperlukan yang akan di render kembali ketika terjadi perubahan, serta akses global ke state yang mempermudah dalam memperoleh data dalam aplikasi.
